@@ -73,12 +73,12 @@ facebook:
 og_image                 : "/assets/images/bio-photo.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
+social                   :
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-    - https://twitter.com/
-    - https://github.com/
+  links                  : # An array of links to social media profiles
+                    - https://twitter.com/
+                    - https://github.com/
 
 # Analytics
 analytics:
